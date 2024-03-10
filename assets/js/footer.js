@@ -22,11 +22,11 @@ document.write('<section id="footer"> \
         </ul>\
     </form>\
     <ul class="contact">\
-        <li class="icon solid fa-phone">(971) 401-7226</li>\
+        <li class="icon solid fa-phone">(000) 001-0006 (please contact via email)</li>\
         <li class="icon solid fa-envelope"><a href="mailto:tqn1472@gmail.com">tqn1472@gmail.com</a></li>\
         <li class="icon brands fa-twitter"><a href="https://twitter.com/tqn1472">twitter.com/tqn1472</a></li>\
         <li class="icon brands fa-github"><a href="https://github.com/tqn14">github.com/tqn14</a></li>\
-        <li class="icon brands fa-linkedin"><a href="https://linkedin.com/in/thuquynhnguyen">linkedin.com/in/thuquynhnguyen</a></li>\
+        <li class="icon brands fa-linkedin"><a href="https://linkedin.com/in/tqn1472">linkedin.com/in/tqn1472</a></li>\
         <li class="icon fa-file"><a href="ThuNguyen (2).pdf" target="_blank">Resume</a></li>\
     </ul>\
     <ul class="copyright">\
